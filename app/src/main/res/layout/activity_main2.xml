@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.adityashekhar.onboardbeacon.MainActivity2">
+
+    <EditText
+        android:layout_width="157dp"
+        android:layout_height="49dp"
+        android:id="@+id/BusNumber"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="212dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Bus Number"
+        android:id="@+id/Enter"
+        android:layout_below="@+id/BusNumber"
+        android:layout_centerHorizontal="true"
+        android:onClick="sendMessage"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="@+id/BusNumber"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/BusNumber" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8825f9dce2ac100cdb3f262df90bbebc7f64bd26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c98fdfdafa444787194ecf1559396c580c5810cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\e0c6d1841a7d2154be0f5e76f9e90308a1dbbae6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_bed43058e2198eaafb7c58781951c7c4b0bb285b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\6a2862b3a39726eb818356a0226932540f086fa0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_6c8e46b3426747aa5a0801197f222b34073ef213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8c83b91ae2c2662997a12554021576628b56a643\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_004c1d3c263caefb770707ea51519a0a0550d5ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\e0c6d1841a7d2154be0f5e76f9e90308a1dbbae6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bed43058e2198eaafb7c58781951c7c4b0bb285b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\eeb61c7ea134ad977fabcd14f2317fa90a165863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_69baaff929459784a97072116e924c1d6f432021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8825f9dce2ac100cdb3f262df90bbebc7f64bd26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_c98fdfdafa444787194ecf1559396c580c5810cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\e5de5b210eec9d8d37be693d7d4b6877ac4f9355\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_00e3fe84f23527aa7e948eee7ff87fa28af1ba29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\b014ea8a6e48399fff4f731578d98284e4e086e5\output\jars\libs\mgmtsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f49da07abecfb8b627f3e35915e9317f682ea084">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\mgmtsdk_585d79ac52aab839d4b7270852ab8c480ef252e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\e5de5b210eec9d8d37be693d7d4b6877ac4f9355\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00e3fe84f23527aa7e948eee7ff87fa28af1ba29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\6a2862b3a39726eb818356a0226932540f086fa0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c8e46b3426747aa5a0801197f222b34073ef213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8c83b91ae2c2662997a12554021576628b56a643\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_004c1d3c263caefb770707ea51519a0a0550d5ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\64d9442f95a441dadc8ea57862ef380c0e8f672c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_a822bde9372deca59f30175e35d687ad73935904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\b014ea8a6e48399fff4f731578d98284e4e086e5\output\jars\libs\mgmtsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f49da07abecfb8b627f3e35915e9317f682ea084">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\mgmtsdk_585d79ac52aab839d4b7270852ab8c480ef252e1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\b014ea8a6e48399fff4f731578d98284e4e086e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="49b9cce416e32679c1823ed3b65ccdde079d2ea8">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b1bcca13201a2e05dd8029137c7db4ae88cd768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8a9b05db172d9e4af9746275416dcc8355023693\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c72eec115fff58aab3cf69b904644ff0d6d11513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\64d9442f95a441dadc8ea57862ef380c0e8f672c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a822bde9372deca59f30175e35d687ad73935904\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\b014ea8a6e48399fff4f731578d98284e4e086e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="49b9cce416e32679c1823ed3b65ccdde079d2ea8">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_7b1bcca13201a2e05dd8029137c7db4ae88cd768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\9d1adb5c199db6f17309f18241211b6d058c0273\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_f16c2651ade1790f41466710075f76ef6ce019fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\9d1adb5c199db6f17309f18241211b6d058c0273\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f16c2651ade1790f41466710075f76ef6ce019fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\7801f69756df2eb1f8b703c0de0793cb0d0c31b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_bde351ad2a7c0ba25963af238a95c44b7711433f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\7801f69756df2eb1f8b703c0de0793cb0d0c31b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bde351ad2a7c0ba25963af238a95c44b7711433f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\ef3f7dd2056ba0ef137265c7ec9f63701e808e5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_8e9da7090d43eda7f4694e1dcb7b20eaf3b2fe87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\d862030de3f6689ec9b3f3afa9c6c3ed232236cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_61d6fc1f0f2c9e2845028ad1db4635b26a5ea2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\0b679431b339da61df464705f879b8c2ee673984\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_46f50637fbe6cabc186780618eff7c2d4b1f3cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\4ffc9a19d28525dca2410f277c412c2e95dde6a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_1e98872983d308793163d785b63021e990811f66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\838e51131d91a825c52412dcf41ce9664f2c7bc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a64154365ddfc3bf7ece2c267e5989df22d610c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\838e51131d91a825c52412dcf41ce9664f2c7bc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_a64154365ddfc3bf7ece2c267e5989df22d610c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\d862030de3f6689ec9b3f3afa9c6c3ed232236cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61d6fc1f0f2c9e2845028ad1db4635b26a5ea2e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\4f13b8df1339026d78e2a1950d29e7e1b8bcf088\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88d7644ba353cdc96000156b010af71deb84ceeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\5921d29817541c82c43f18ddb69bd613b39475c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_e67aa8acfef3eff26c7a8095b27251d354940d1b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\6fca0bee3d97cc8d7d7bd41b6a40983a6f27c331\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6653ac5c922ca46c491cc58d3be75871bcd59f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\6fca0bee3d97cc8d7d7bd41b6a40983a6f27c331\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_6653ac5c922ca46c491cc58d3be75871bcd59f26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\4ffc9a19d28525dca2410f277c412c2e95dde6a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e98872983d308793163d785b63021e990811f66\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\31ad074926c35ec373f8315f84785d3206f0dba4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_88663b6350c64ea2318de8806a7fe749c73bc667.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\5921d29817541c82c43f18ddb69bd613b39475c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e67aa8acfef3eff26c7a8095b27251d354940d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\31ad074926c35ec373f8315f84785d3206f0dba4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88663b6350c64ea2318de8806a7fe749c73bc667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\0b679431b339da61df464705f879b8c2ee673984\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46f50637fbe6cabc186780618eff7c2d4b1f3cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\eeb61c7ea134ad977fabcd14f2317fa90a165863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69baaff929459784a97072116e924c1d6f432021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\2375bc728377f1ee0581f585ee106567797225d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a635575b580dd80e52aadc4c82dfc6ad1c905cb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\27a5676fd615db39e970f7cdd63b240a7edb7029\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6311b8286dd69ea1ed41986fc7d9e0e7ac5fe989\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\314d60312205d6be24c63efaa6f5d8d665170729\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_f8c1de73db2da6562b99ea15805cc12ba28657fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\314d60312205d6be24c63efaa6f5d8d665170729\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8c1de73db2da6562b99ea15805cc12ba28657fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\ef3f7dd2056ba0ef137265c7ec9f63701e808e5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e9da7090d43eda7f4694e1dcb7b20eaf3b2fe87\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\540a586e945463f0b3fe14264e7b59938ac8ae5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_f8e9d4dafc323ca8c264d2774b8d6bd7e60395e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\81fc14d5aec6b6a7be8c1e7e1eadedf472a78ce1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3727c13b66d31d95656ddeb81828be076c6f2754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\663802dbd7569aa3a02ebedff053b1d1e8245898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2eec2b2887d71e0043c2867caa9c7a3f27e36ac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8a7c9be6f077c1a3e8e4314b7fa0a7453680569e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa8a498364e10479659555dcfbdd2ce045ab845f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\5e7a615421befd5e8d0fba98aed301d03b3dc750\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_3e376600c123b02e130b62b816a534206e575f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\7b042cb7ce3b4aef3a4944deaaec19d4f5cebc9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_a8ac75ecff86ef0261dcc36484360fcc6b5780b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\0885a81fa2cf3872e68533a7811d9664d3812b35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0058b7a8a529f07aa2816f8aa5f3ffeb1f40f0fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\2fefab79364061ac0fc0c7b8150dcfa41bd95b5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df03911fd8003b6d69c9b0e2195a1eda0c131a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\7b042cb7ce3b4aef3a4944deaaec19d4f5cebc9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8ac75ecff86ef0261dcc36484360fcc6b5780b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\603d183fa4aef90536c5e51078661055ddb9ae2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10ea877a4331985cb2f50ee84168da1c60a874bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\0885a81fa2cf3872e68533a7811d9664d3812b35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_0058b7a8a529f07aa2816f8aa5f3ffeb1f40f0fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e567e15523a0db54c1e2711fc5b2c4db6795fb5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\422507bdf819a8a9accbc2e4c00d93fb75ab87bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15b8757b98774095e0ccc882e027e025bd03b155\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\663802dbd7569aa3a02ebedff053b1d1e8245898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_2eec2b2887d71e0043c2867caa9c7a3f27e36ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\733caeb6485be71a04187636c4383470935593f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_b21a371188ed2742346230ce113ad645e2ab08ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\541e79acf519aa4ea835e9035f5fae6220c35dd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_5665ca1369460faf99f2dc295d14164eec5934a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\541e79acf519aa4ea835e9035f5fae6220c35dd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5665ca1369460faf99f2dc295d14164eec5934a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\5e7a615421befd5e8d0fba98aed301d03b3dc750\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e376600c123b02e130b62b816a534206e575f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\422507bdf819a8a9accbc2e4c00d93fb75ab87bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_15b8757b98774095e0ccc882e027e025bd03b155.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\82e82393b3d42e0e7bda5b9d08c2a38b734c02e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e26330998e8030c8155805013b96b6fd5c7eb628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\733caeb6485be71a04187636c4383470935593f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b21a371188ed2742346230ce113ad645e2ab08ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\155b1d16d05f075ae333b80e23ac84e34131649a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a604dbc77cdd1d961ec2ab6c9a705b57070272c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\009122b5c1256afe8008a4e2ae2fd06e1c259369\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53a22a354edb71431e75a67e9f46d5337275eb31\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\ac2fab24fa7bde611b8bf98c9f94b8284b760986\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_3b11495fefd67fd6873a1de661e19859d5c7276f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8c83b91ae2c2662997a12554021576628b56a643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf01130db30be318e6fe4e7f0be9aa2a97d49015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\c59392e12bf8f8853e566309b9c30a790a717d8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49ad1854443bf897caa0292dafc5001cf3513301\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\155b1d16d05f075ae333b80e23ac84e34131649a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_8a604dbc77cdd1d961ec2ab6c9a705b57070272c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\009122b5c1256afe8008a4e2ae2fd06e1c259369\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_53a22a354edb71431e75a67e9f46d5337275eb31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8c83b91ae2c2662997a12554021576628b56a643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_bf01130db30be318e6fe4e7f0be9aa2a97d49015.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\ac2fab24fa7bde611b8bf98c9f94b8284b760986\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b11495fefd67fd6873a1de661e19859d5c7276f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\603d183fa4aef90536c5e51078661055ddb9ae2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_10ea877a4331985cb2f50ee84168da1c60a874bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\058e793039f85be49cd70780b210a2a8bb262a18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_11336c0e4f684830d43c599e3ad30e83d8b8b43c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\058e793039f85be49cd70780b210a2a8bb262a18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11336c0e4f684830d43c599e3ad30e83d8b8b43c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\540a586e945463f0b3fe14264e7b59938ac8ae5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8e9d4dafc323ca8c264d2774b8d6bd7e60395e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\cec1ed08a35c90293e9fd76312c83c6eb18ee5a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57f99f3fd320e519517c43a270c75ca6df255b62">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f1f2731a4cd876f43f876f4d24a590a0fcdaa04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\a28f0d281e13d4f2c07a8f9cc7d93126121820a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e92391dee0f2e4ec106eb700ab3e98d4557a2385\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\daefcb49996210bcea9871990f1f04b093e828c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14dad062f18c4f3386384bc929a31c74815bbfd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\0acbd023d49c83b3810c5f8bbc4cff19eededac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_09af728fba543e3c06b4fbff04c4a0aed12c0456.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\0acbd023d49c83b3810c5f8bbc4cff19eededac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09af728fba543e3c06b4fbff04c4a0aed12c0456\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\a28f0d281e13d4f2c07a8f9cc7d93126121820a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_e92391dee0f2e4ec106eb700ab3e98d4557a2385.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\b4ac653f16c89262ddf8cd094274a69dbcb76d6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6fa18cf874525616e6f25ccdf9e53d19d24ea11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\cbd3c69cd8d99b4e3925f27a9a0f24d47d99370b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2672f5da737be428feea313b0184e93c5027a54f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\7bd4061c6a3300b16c6736b780c39ee08e926396\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_a14fa7985e418293cde1520efa0acc1eda00bd61.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\7bd4061c6a3300b16c6736b780c39ee08e926396\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a14fa7985e418293cde1520efa0acc1eda00bd61\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\cbd3c69cd8d99b4e3925f27a9a0f24d47d99370b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_2672f5da737be428feea313b0184e93c5027a54f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\b4ac653f16c89262ddf8cd094274a69dbcb76d6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_d6fa18cf874525616e6f25ccdf9e53d19d24ea11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\af4333c80aff45cf5a8e3d6350dcb67315b4784f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52fbe3f6f50907b3dda99a5fc872cbae013bf2da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\d1b3e8ecd6c49b2e1bb972910714b98928759c83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4b78f11c132a60b0c069ebda731e2fac55c7e71\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\aec8a61f92c19a8380a3189ed4a14f15af8af402\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_bfa33cc7e3745da02afca0964d27fe707ddfa264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\82e82393b3d42e0e7bda5b9d08c2a38b734c02e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_e26330998e8030c8155805013b96b6fd5c7eb628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\e5320b6c42dc7967ef14dc467fcdb2f8b5b295f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_e7ba243fefb8f7637ecb3af92737622b767e9479.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\e5320b6c42dc7967ef14dc467fcdb2f8b5b295f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7ba243fefb8f7637ecb3af92737622b767e9479\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\9110735189b95ce43a5273cdd703b31cbf6ae6d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_e53d9347c02f6f619d02b7a5d86e7e77f4182d5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_43f19dc10f32eb5f726e887dd5e0081ce8288b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\aec8a61f92c19a8380a3189ed4a14f15af8af402\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfa33cc7e3745da02afca0964d27fe707ddfa264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\9110735189b95ce43a5273cdd703b31cbf6ae6d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e53d9347c02f6f619d02b7a5d86e7e77f4182d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\98c3014479f2e1d0ac5f105c8584ce27ccb1cab1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1373e336501f165d1b96365e903df8f76f8fb075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\d1363660f6a3b19ed53f6429553e3431856d2f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27f174f4d0f5944076fa9cbad3091f53c787855d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\bf1d4d1813a2149d63a951642cd0c2d6a07f3317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_f86282a2451b9d6e037c4bb4b69af4bec9d4385d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\98c3014479f2e1d0ac5f105c8584ce27ccb1cab1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_1373e336501f165d1b96365e903df8f76f8fb075.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\bf1d4d1813a2149d63a951642cd0c2d6a07f3317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f86282a2451b9d6e037c4bb4b69af4bec9d4385d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\8a7c9be6f077c1a3e8e4314b7fa0a7453680569e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_fa8a498364e10479659555dcfbdd2ce045ab845f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA SHEKHAR\.android\build-cache\d1b3e8ecd6c49b2e1bb972910714b98928759c83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\ADITYA SHEKHAR\Desktop\OnBoard-Application-master\OnboardBeacon\app\build\intermediates\pre-dexed\debug\classes_e4b78f11c132a60b0c069ebda731e2fac55c7e71.jar" />
+    </item>
+
+</items>
